@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jiachengqi/Desktop/interview/Fiserv/TransactionFrontend/TransactionFrontend/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/jiachengqi/Desktop/interview/Fiserv/TransactionFrontend/TransactionFrontend/obj/Debug/net8.0/compressed/y40hv6182b.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/jiachengqi/Desktop/interview/Fiserv/TransactionFrontend/TransactionFrontend/obj/Debug/net8.0/scopedcss/bundle/TransactionFrontend.styles.css",
+      "PackagePath": "staticwebassets/TransactionFrontend.styles.css"
+    },
+    {
+      "Id": "/Users/jiachengqi/Desktop/interview/Fiserv/TransactionFrontend/TransactionFrontend/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/jiachengqi/Desktop/interview/Fiserv/TransactionFrontend/TransactionFrontend/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/jiachengqi/Desktop/interview/Fiserv/TransactionFrontend/TransactionFrontend/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/jiachengqi/Desktop/interview/Fiserv/TransactionFrontend/TransactionFrontend/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/jiachengqi/Desktop/interview/Fiserv/TransactionFrontend/TransactionFrontend/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/jiachengqi/Desktop/interview/Fiserv/TransactionFrontend/TransactionFrontend/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/jiachengqi/Desktop/interview/Fiserv/TransactionFrontend/TransactionFrontend/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.TransactionFrontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.TransactionFrontend.props",
+      "PackagePath": "build\\TransactionFrontend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TransactionFrontend.props",
+      "PackagePath": "buildMultiTargeting\\TransactionFrontend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TransactionFrontend.props",
+      "PackagePath": "buildTransitive\\TransactionFrontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
